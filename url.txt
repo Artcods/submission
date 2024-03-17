@@ -1,5 +1,1 @@
-```
-conda create --name main-ds python=3.9
-conda activate main-ds
-pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
-```
+https://potential-funicular-v5vr7gw7wq4hp44q-8502.app.github.dev/
