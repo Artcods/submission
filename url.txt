@@ -1,2 +1,2 @@
 # Streamlit cloud
-https://potential-funicular-v5vr7gw7wq4hp44q-8502.app.github.dev/
+https://dashboardpy-bchdb6wvvf5szwbzkerqrc.streamlit.app/
